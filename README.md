@@ -2,8 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating an Android App by myself.
-- 🌱 I’m currently learning Advanced Java, and some Javascript / React for web development.
+I am a software engineer, I work with Java + spring framework, Javascript, and SQL for the backend, also HTML/CSS, bootstrap for frontend dev.
+
+- 🔭 I’m currently working on a CMS as a personal project.
+- 🌱 I’m currently learning to code in PHP to create full enterprise systems and some advanced Javascript. 
 
 
 #30NitesOfCode:
